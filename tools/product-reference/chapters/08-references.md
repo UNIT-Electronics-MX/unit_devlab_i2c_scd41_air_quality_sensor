@@ -2,26 +2,9 @@
 
 | Reference | Location |
 |---|---|
-| Board topology | [Current resource](https://github.com/UNIT-Electronics-MX/unit_devlab_temt600_ambient_light_sensor/blob/main/hardware/resources/unit_topology_v_3_1_0_ue0098_temt6000_ambient_light_sensor.png) |
-| Board dimensions | [Current resource](https://github.com/UNIT-Electronics-MX/unit_devlab_temt600_ambient_light_sensor/blob/main/hardware/resources/unit_dimensions_v_3_1_0_ue0098_temt6000_ambient_light_sensor.png) |
-| Product repository | [UNIT-Electronics-MX/unit_devlab_temt600_ambient_light_sensor](https://github.com/UNIT-Electronics-MX/unit_devlab_temt600_ambient_light_sensor) |
-| Hardware reference | [hardware/README.md](https://github.com/UNIT-Electronics-MX/unit_devlab_temt600_ambient_light_sensor/blob/main/hardware/README.md) |
-| English pinout | [Released pinout — English](https://github.com/UNIT-Electronics-MX/unit_devlab_temt600_ambient_light_sensor/blob/main/hardware/unit_pinout_v_3_1_0_ue0098_temt6000_ambient_light_sensor_en.pdf) |
-| Spanish pinout | [Released pinout — Spanish](https://github.com/UNIT-Electronics-MX/unit_devlab_temt600_ambient_light_sensor/blob/main/hardware/unit_pinout_v_3_1_0_ue0098_temt6000_ambient_light_sensor_es.pdf) |
-| Board top view | [V0.3.1 resource](https://github.com/UNIT-Electronics-MX/unit_devlab_temt600_ambient_light_sensor/blob/main/hardware/resources/unit_top_v_0_3_1_ue0098_temt6000.png) |
-| Board bottom view | [V0.3.1 resource](https://github.com/UNIT-Electronics-MX/unit_devlab_temt600_ambient_light_sensor/blob/main/hardware/resources/unit_btm_v_0_3_1_ue0098_temt6000.png) |
-| Current schematic | [V2.0.0](https://github.com/UNIT-Electronics-MX/unit_devlab_temt6000_ambient_light_sensor/blob/main/hardware/unit_sch_v_2_0_0_ue0098_temt6000.pdf) |
-| Software examples | [C++ and MicroPython](https://github.com/UNIT-Electronics-MX/unit_devlab_temt600_ambient_light_sensor/tree/main/software/examples) |
-| Arduino library | [UNIT-Electronics-MX/unit_devlab_temt6000_library](https://github.com/UNIT-Electronics-MX/unit_devlab_temt6000_library) |
-| Local DDP device profile | [TEMT6000 DDP profile](https://github.com/UNIT-Electronics-MX/unit_devlab_temt600_ambient_light_sensor/blob/main/software/protocol/README.md) |
-| Canonical DDP definitions and Arduino library | [UNIT-Electronics-Labs/unit_devlab_ddp_library](https://github.com/UNIT-Electronics-Labs/unit_devlab_ddp_library) |
-| Comparative component page | [Vishay TEMT6000X01 — reference only](https://www.vishay.com/en/product/81579/) |
-| TEMT6000 component datasheet | [Vishay Semiconductors, *TEMT6000X01 Ambient Light Sensor*, document 81579 — comparative reference only](https://www.vishay.com/docs/81579/temt6000.pdf) |
+| Product repository | [UE0179 SCD41 Air Quality Sensor](https://github.com/UNIT-Electronics-MX/unit_devlab_i2c_scd41_air_quality_sensor) |
+| Pinout V1.0, English | [PDF](https://github.com/UNIT-Electronics-MX/unit_devlab_i2c_scd41_air_quality_sensor/blob/main/hardware/unit_pinout_v_1_0_ue0179_i2c_scd41_air_quality_sensor_en.pdf) · [PNG](https://github.com/UNIT-Electronics-MX/unit_devlab_i2c_scd41_air_quality_sensor/blob/main/hardware/resources/unit_pinout_v_1_0_ue0179_i2c_scd41_air_quality_sensor_en.png) |
+| Pinout V1.0, Spanish | [PDF](https://github.com/UNIT-Electronics-MX/unit_devlab_i2c_scd41_air_quality_sensor/blob/main/hardware/unit_pinout_v_1_0_ue0179_i2c_scd41_air_quality_sensor_es.pdf) · [PNG](https://github.com/UNIT-Electronics-MX/unit_devlab_i2c_scd41_air_quality_sensor/blob/main/hardware/resources/unit_pinout_v_1_0_ue0179_i2c_scd41_air_quality_sensor_es.png) |
 
-The released pinout, current board images, topology, dimensions, and schematic
-define the current visible interfaces, board layout, and
-mechanical envelope. The Vishay datasheet is
-retained only as a comparative TEMT6000X01 profile; it does not establish the
-exact orderable part fitted to this module or define complete-module ratings.
-The DDP profile defines runtime identity and digital data transport; it does
-not replace module-level electrical qualification.
+The released pinout documents the visible labels and connector orientation.
+It does not by itself establish supply limits, bus timing, or mating part numbers.

@@ -30,7 +30,8 @@ and debugging interface; there is no separate user-accessible SWD connector.
 | Product hierarchy | UNIT Electronics → DevLab board ecosystem → Atom family |
 | Manufacturer Part Number (MPN) | UE0098 |
 | Current board artwork | V0.3.1 |
-| Current pinout, topology, and dimensions | V3.1.0 |
+| Current pinout | V1.0 (UE0179) |
+| Topology and dimensions | Product-specific revision pending |
 | Available schematic | Current V2.0.0 |
 | Product Reference | Version 1.1.0 |
 | Publication date | 2026-08-31 |
