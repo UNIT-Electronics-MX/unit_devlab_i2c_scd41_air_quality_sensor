@@ -14,9 +14,9 @@ The DevLab I2C SCD41 Air Quality Sensor is an I2C air quality sensing module in 
 ### Quick Setup
 
 <img src="https://img.shields.io/badge/Product%20Wiki-pending-lightgrey?style=for-the-badge" alt="Product Wiki pending">
-[<img src="https://img.shields.io/badge/Datasheet-green?style=for-the-badge" alt="Product Reference">](docs/hardware/unit_product_reference_v_1_1_0_ue0179_devlab_i2c_scd41_air_quality_sensor.pdf)
-[<img src="https://img.shields.io/badge/Buy%20Now-orange?style=for-the-badge" alt="Buy Now">](https://uelectronics.com/)
-[<img src="https://img.shields.io/badge/Getting%20Started-purple?style=for-the-badge" alt="Getting Started">](software/README.md)
+[<img src="https://img.shields.io/badge/Datasheet-green?style=for-the-badge" alt="Datasheet">](docs/hardware/unit_product_reference_v_1_1_0_ue0179_devlab_i2c_scd41_air_quality_sensor.pdf)
+<img src="https://img.shields.io/badge/Buy%20Now-pending-lightgrey?style=for-the-badge" alt="Buy Now pending">
+<img src="https://img.shields.io/badge/Getting%20Started-pending-lightgrey?style=for-the-badge" alt="Getting Started pending">
 
 </div>
 
@@ -47,7 +47,3 @@ The supplied source package does not include a product-specific schematic. Check
 
 All hardware and documentation in this project are licensed under the **MIT License**.
 See the [repository license](LICENSE) for details.
-
-<div align="center">
-  <sub>Template created by UNIT Electronics</sub>
-</div>
