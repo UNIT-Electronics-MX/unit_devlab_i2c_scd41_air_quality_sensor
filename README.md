@@ -1,7 +1,5 @@
 # DevLab I2C SCD41 Air Quality Sensor
 
-**MPN: UE0179**
-
 The DevLab I2C SCD41 Air Quality Sensor is an I2C air quality sensing module in the UNIT Electronics DevLab family.
 
 <div align="center">
