@@ -13,7 +13,7 @@ i2c = I2C(
     freq=100_000,
 )
 
-print("UNIT ATOM TEMT6000 I2C scanner")
+print("UE0179 generic I2C scanner")
 print("A detected address does not define the measurement protocol.")
 
 while True:

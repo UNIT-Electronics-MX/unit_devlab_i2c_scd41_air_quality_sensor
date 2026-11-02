@@ -15,7 +15,7 @@ void setup() {
 #endif
   Wire.setClock(100000);
 
-  Serial.println("UNIT ATOM TEMT6000 I2C scanner");
+  Serial.println("UE0179 generic I2C scanner");
   Serial.println("A detected address does not define the measurement protocol.");
 }
 

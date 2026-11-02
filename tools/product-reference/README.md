@@ -1,28 +1,15 @@
-# Product Reference build
+# DevLab I2C SCD41 Air Quality Sensor product reference source
 
-The UE0179 SCD41 Air Quality Sensor reference source is maintained in Markdown under
-`chapters/`. Document metadata and chapter order are defined in `book.yml`.
+MPN: **UE0179**
 
-## Pinout assets
+The chapters in `chapters/` are assembled in the order specified by `book.yml`. They use the product-specific resources under `hardware/`.
 
-The released V1.0 pinout is available in English and Spanish. PDF files are
-stored in `hardware/`; PNG and JPG images are in `hardware/resources/`.
-Chapter 4 uses the English PNG, and Chapter 8 links both language versions.
-
-Other chapters and generated filenames still contain material inherited from
-the TEMT6000 template. Review and replace that material before treating the
-full Product Reference as product-specific documentation.
-
-## Local validation build
-
-Requirements: Pandoc and WeasyPrint, Google Chrome, or Chromium.
-
-Run from the repository root and direct validation output outside the
-repository:
+Run from the repository root:
 
 ```bash
-./tools/product-reference/build.sh /tmp/ue0179-product-reference
+./tools/product-reference/build.sh
 ```
 
-The build produces Markdown, DOCX, HTML, and PDF files. Generated `docs/`
-files are maintained by the publication workflow.
+The script writes Markdown, DOCX, HTML, and PDF files named `unit_product_reference_v_1_1_0_ue0179_devlab_i2c_scd41_air_quality_sensor.*` under `build/product-reference/` by default. Pass a directory path as the first argument to change the output location.
+
+A product-specific schematic was not present in the selected source package.
