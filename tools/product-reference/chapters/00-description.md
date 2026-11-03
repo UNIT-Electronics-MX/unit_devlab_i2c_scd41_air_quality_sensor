@@ -9,4 +9,4 @@ The DevLab I2C SCD41 Air Quality Sensor (MPN **UE0179**) is an I2C air quality s
 
 ### **Available Documentation**
 
-A product-specific schematic was not present in the selected source package. See Chapter 8 for the available source files. Confirm the electrical interface against the product-specific pinout or schematic before connecting the board.
+The UE0179 board schematic and pinout appear under `hardware/`. Chapter 8 lists the source files, and Appendix 9.4 shows the complete schematic.

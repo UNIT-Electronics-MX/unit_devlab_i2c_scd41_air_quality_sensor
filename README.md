@@ -36,10 +36,9 @@ The DevLab I2C SCD41 Air Quality Sensor is an I2C air quality sensing module in 
 ## Resources
 
 - [Hardware files and board views](hardware/README.md)
+- [UE0179 board schematic (PDF)](hardware/unit_sch_v_1_0_0_ue0179_i2c_scd41_air_quality_sensor.pdf)
 - [Product reference source](tools/product-reference/README.md)
 - [Generic I2C scanner examples](software/README.md)
-
-The supplied source package does not include a product-specific schematic. Check the product-specific pinout or schematic for wiring and electrical limits.
 
 ## 📝 License
 

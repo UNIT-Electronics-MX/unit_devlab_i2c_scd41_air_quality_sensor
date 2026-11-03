@@ -1,7 +1,7 @@
 ## **3 Functional Overview**
 
-The DevLab I2C SCD41 Air Quality Sensor provides air quality sensing for an I2C-based system. The supplied board views identify the physical module, while the product-specific schematic and firmware documentation are needed to establish its internal signal path and command set.
+The DevLab I2C SCD41 Air Quality Sensor provides air quality sensing for an I2C-based system. The UE0179 schematic shows the SCD41 sensor connected to VSYS, GND, SDA, and SCL. It shows SDA and SCL pull-ups to VSYS, supply decoupling capacitors, a power indicator, and three I2C hub connectors.
 
 ### **3.1 Integration Boundary** {.section-page}
 
-Use the available UE0179 pinout, schematic, and firmware release to determine power, connector mapping, address, and commands. Until these are confirmed, treat the generic I2C scanner in `software/` as a bus diagnostic only.
+The UE0179 pinout and schematic identify the connector signals and board connections. The firmware release and sensor documentation establish the I2C address and commands. The generic I2C scanner in `software/` serves as a bus diagnostic.

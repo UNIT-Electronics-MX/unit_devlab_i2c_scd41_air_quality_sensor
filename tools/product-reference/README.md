@@ -12,4 +12,4 @@ Run from the repository root:
 
 The script writes Markdown, DOCX, HTML, and PDF files named `unit_product_reference_v_1_1_0_ue0179_devlab_i2c_scd41_air_quality_sensor.*` under `build/product-reference/` by default. Pass a directory path as the first argument to change the output location.
 
-A product-specific schematic was not present in the selected source package.
+The [UE0179 board schematic](../../hardware/unit_sch_v_1_0_0_ue0179_i2c_scd41_air_quality_sensor.pdf) appears at the end of the product reference.
