@@ -29,7 +29,7 @@ A dedicated functional block diagram is not included in the available product-sp
 
 ![DevLab I2C SCD41 Air Quality Sensor bottom view](resources/unit_btm_v_1_0_ue0179_i2c_scd41_air_quality_sensor_3d.png)
 
-A product-specific electrical schematic is not included in the available files.
+[UE0179 board schematic (PDF)](unit_sch_v_1_0_0_ue0179_i2c_scd41_air_quality_sensor.pdf)
 
 ## Pinout
 
@@ -68,5 +68,6 @@ The DevLab I2C SCD41 Air Quality Sensor is an I2C air quality sensing module in 
 
 - [Product Reference](../docs/hardware/unit_product_reference_v_1_1_0_ue0179_devlab_i2c_scd41_air_quality_sensor.pdf)
 - [Product Reference source](../tools/product-reference/README.md)
+- [UE0179 board schematic](unit_sch_v_1_0_0_ue0179_i2c_scd41_air_quality_sensor.pdf)
 - [English pinout](./unit_pinout_v_1_0_ue0179_i2c_scd41_air_quality_sensor_en.pdf)
 - [Spanish pinout](./unit_pinout_v_1_0_ue0179_i2c_scd41_air_quality_sensor_es.pdf)
